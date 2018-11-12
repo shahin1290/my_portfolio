@@ -11,3 +11,4 @@ group :development, :test do
     gem 'pry-byebug'
     gem 'rspec'
   end
+  gem 'haml'
