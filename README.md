@@ -7,3 +7,7 @@ I would like to create a homepage with my name and small description about me
 As a visitor
 In order to get more information about the portfolio owner
 I would like to see an about page with some informations and an image
+
+As a visitor
+In order to get information about how many projects the portfolio owner has completed
+I would like to see a list of completed projects
