@@ -33,9 +33,9 @@ describe 'Index Page', type: :feature do
     it 'displays menus of navigation links' do
         visit '/'
     
-        expect(page).to have_css '.navbar'
+        expect(page).to have_css '.nav-bar'
     
-        within '.navbar' do
+        within '.nav-bar' do
           expect(page).to have_content 'About'
           expect(page).to have_css 'a[href*="#"]'
         end
