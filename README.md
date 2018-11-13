@@ -11,3 +11,7 @@ I would like to see an about page with some informations and an image
 As a visitor
 In order to get information about how many projects the portfolio owner has completed
 I would like to see a list of completed projects
+
+As a visitor 
+In order to go to different sections in the website
+I would like to see a menu of the links that forward me to the desired section

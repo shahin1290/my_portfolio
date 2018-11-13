@@ -19,16 +19,28 @@ describe 'Index Page', type: :feature do
         end
     end
 
-    describe 'Index Page', type: :feature do
-        it 'displays project list' do
-          visit '/'
-      
-          expect(page).to have_css '.projects'
-      
-          within '.projects' do
-            expect(page).to have_content 'My First Website'
-            expect(page).to have_content 'FizzBuzz'
-          end
+    it 'displays project list' do
+        visit '/'
+    
+        expect(page).to have_css '.projects'
+    
+        within '.projects' do
+          expect(page).to have_content 'My First Website'
+          expect(page).to have_content 'FizzBuzz'
+        end
+    end    
+
+    it 'displays menus of navigation links' do
+        visit '/'
+    
+        expect(page).to have_css '.navbar'
+    
+        within '.navbar' do
+          expect(page).to have_content 'About'
+          expect(page).to have_css 'a[href*="#"]'
         end
       end
+        
+    
+
 end
