@@ -1,4 +1,5 @@
 .projects
-  - data.projects.each do |project|
-    %h4= project[:name]
-    %p= project[:description]
+  - data.projects.each_with_index do |project,index|
+    .item{class: "item-#{index + 1}"}
+      %h4= project[:name]
+      %p= project[:description]

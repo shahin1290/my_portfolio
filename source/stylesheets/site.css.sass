@@ -35,14 +35,35 @@ a:hover
   left: 50%
   transform: translate(-50%, -50%)
   color: white
+
+.container
+  max-width: 80%
+  margin: auto
+  .section-heading
+    text-align: center
+
 #about-me
-  .container
-    display: flex
-    justify-content: space-between
-    .text
-      width: 70%
-    img 
-      width: 300px
-      height: 200px 
+  display: flex
+  justify-content: space-between
+  .text
+    width: 70%
+  img 
+    width: 300px
+    height: 200px 
+.projects
+  display: grid
+  grid-template-rows: 300px 300px
+  grid-template-columns: 350px 350px 350px
+  justify-content: space-between 
+  margin: 0 auto
+  grid-gap: 30px
+  max-width: 70%
+  
+  .item
+    padding: 10px 10px 0 10px
+    border: 2px solid black
+    margin: 10px 
+
+
 
     
