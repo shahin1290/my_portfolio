@@ -15,3 +15,7 @@ I would like to see a list of completed projects
 As a visitor 
 In order to go to different sections in the website
 I would like to see a menu of the links that forward me to the desired section
+
+As a visitor
+In order to contact the portfolio owner
+I would like to see a form where I can write a message

@@ -41,6 +41,16 @@ describe 'Index Page', type: :feature do
           expect(page).to have_css 'a[href*="#"]'
         end
       end
+
+      it 'displays forms' do
+        visit '/'
+
+        expect(page).to have_css 'form[method*="POST"]'
+
+        within 'form[method*="POST"]' do
+            expect(page).to have_css 'button[type*="submit"]'
+        end
+    end
         
     
 
