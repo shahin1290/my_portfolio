@@ -12,9 +12,10 @@ describe 'Index Page', type: :feature do
     it 'displays more informations about me and my image' do
         visit '/'
 
-        expect(page).to have_css '#about-me'
-        expect(page).to have_css '#my-image'
-        within '#about-me' do
+        expect(page).to have_css '.container'
+        expect(page).to have_css 'img'
+
+        within '.container' do
             expect(page).to have_content 'About Me'
         end
     end
