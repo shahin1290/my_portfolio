@@ -3,3 +3,13 @@
     .item{class: "item-#{index + 1}"}
       %h4= project[:name]
       %p= project[:description]
+
+      %p Technologies used: #{project[:"Technologies-used"]}
+
+      %p
+        %a{:href => "#{project[:"Link-to-Github"]}"} View Github Repo
+
+      %p
+        %a{:href => "#{project[:"Link-to-Livesite"]}"} View Live Site
+
+

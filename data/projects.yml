@@ -1,17 +1,25 @@
-- name: My First Website
-  description: Simple HTML5 site I've build during the PrepCourse
+- name: BMI CALCULATOR
+  description: Body mass index (BMI) is a simple tool that is generally used to estimate the total amount of body fat. This app calculates a individuals BMI index.
+  Technologies-used: JavaScript, HTML, Tailwind CSS
+  Link-to-Github: https://github.com/shahin1290/BMI_Challenge
+  Link-to-Livesite: https://shahin1290.github.io/BMI_Challenge/
 
-- name: FizzBuzz
-  description: My first Test driven ruby project
+- name: FIZZBUZZ TEST
+  description: The famous fizzbuzz programmed in Javascript using TDD and published in a web interface.
+  Technologies-used: JavaScript, HTML, Tailwind CSS
+  Link-to-Github: https://github.com/shahin1290/fizzbuzz_js_shahin/pull/1
+  Link-to-Livesite: https://shahin1290.github.io/fizzbuzz_js_shahin/
 
-- name: FizzBuzz
-  description: My first Test driven ruby project
+- name: TODOS 
+  description: This app allows the user to create, update, delete, sort and filter todos.
+  Technologies-used: JavaScript, HTML, CSS
+  Link-to-Github: https://github.com/shahin1290/Todo-app
+  Link-to-Livesite: https://todos-js.netlify.com/
 
-- name: FizzBuzz
-  description: My first Test driven ruby project
+- name: ADDRESS BOOK 
+  description: This app was built to allow the users to manage the contact details and gives the Ability to add new contacts, View a list of existing contacts.
+  Technologies-used: JavaScript, HTML, Tailwind CSS
+  Link-to-Github: https://github.com/shahin1290/Address-Book
+  Link-to-Livesite: https://shahin1290.github.io/Address-Book/
 
-- name: FizzBuzz
-  description: My first Test driven ruby project
 
-- name: FizzBuzz
-  description: My first Test driven ruby project

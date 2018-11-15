@@ -26,17 +26,16 @@ describe 'Index Page', type: :feature do
         expect(page).to have_css '.projects'
     
         within '.projects' do
-          expect(page).to have_content 'My First Website'
-          expect(page).to have_content 'FizzBuzz'
+          expect(page).to have_content 'TODOS'
         end
     end    
 
     it 'displays menus of navigation links' do
         visit '/'
     
-        expect(page).to have_css '.nav-bar'
+        expect(page).to have_css 'header .nav-bar'
     
-        within '.nav-bar' do
+        within 'header .nav-bar' do
           expect(page).to have_content 'About'
           expect(page).to have_css 'a[href*="#"]'
         end
