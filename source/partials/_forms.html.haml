@@ -1,15 +1,15 @@
 %section#contact-form
   %form{:method => "POST", :name => "contact", :netlify => ""}
     %label{:for => "name"}
-    Your Name:
+    %p Your Name:
     %input{:name => "name", :type => "text", :id => "name", :placeholder => "Your name"}/
 
     %label{:for => "email"}
-    Your Email:
+    %p Your Email:
     %input{:name => "email", :type => "email", :id => "email", :placeholder => "Your Email"}/
 
     %label{:for => "message"}
-    Message:
+    %p Message:
     %textarea{:name => "message", :id => "message", :placeholder => "Your message"}
 
     %button{:type => "submit"} Send
