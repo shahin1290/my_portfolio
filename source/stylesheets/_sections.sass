@@ -29,6 +29,7 @@
   grid-gap: 3rem
   grid-template-rows: 1fr 1fr 
   grid-template-columns: 1fr 1fr 1fr
+  
 
   +respond-tab
     grid-template-columns: 1fr 1fr 
@@ -39,11 +40,11 @@
   p 
     margin: 0 0 2rem .5rem
 
-
   .item
     border: 1px solid grey
     box-shadow: .5rem 1rem #888888
     font-size: 1.8rem
+    background-image: url("/images/green_gobbler.png")
 
 #contact-form
   width: 60% 
@@ -61,7 +62,7 @@
     margin-top: .6rem
     margin-bottom: 1.8rem
   button 
-    background-color: #4CAF50
+    background-color: #3C463D
     color: white
     padding: 1.2rem 2rem
     border-radius: .4rem
@@ -69,5 +70,7 @@
     width: 12rem
     font-size: 1.8rem
     display: block
-    margin: .1rem auto 
+    margin: .1rem auto
+    &:hover
+      background-color: #00B255 
   
