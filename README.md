@@ -1,3 +1,18 @@
+# PORTFOLIO SITE
+
+## Technology Stack
+    -HAML
+    -SASS
+    -MIDDLEMAN
+    -JAVASCRIPT
+
+
+## Author
+- [Md Shahin Patowary](https://github.com/shahin1290/)
+
+## Deployment
+- [Deployed Site](https://md-shahin-patowary.netlify.com/)
+
 ## User Stories
 
 As a portfolio owner
@@ -27,3 +42,6 @@ I would like to see social media links
 As a visitor
 In order to learn about the professional background of the portfolio owner
 I would like to see the academic background and work experiences
+
+## Sketch
+![alt text](http://imagges/drawing.png)
