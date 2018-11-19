@@ -44,4 +44,4 @@ In order to learn about the professional background of the portfolio owner<br />
 I would like to see the academic background and work experiences
 
 ## Sketch
-![drawing](hhttps://github.com/shahin1290/my_portfolio/blob/master/source/images/drawing.png)
+![drawing](https://github.com/shahin1290/my_portfolio/blob/master/source/images/drawing.png)
