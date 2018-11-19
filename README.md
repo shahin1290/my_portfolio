@@ -23,3 +23,7 @@ I would like to see a form where I can write a message
 As a visitor
 In order to see the social activities of the portfolio owner
 I would like to see social media links
+
+As a visitor
+In order to learn about the professional background of the portfolio owner
+I would like to see the academic background and work experiences

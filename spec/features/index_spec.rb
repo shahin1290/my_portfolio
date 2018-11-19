@@ -4,8 +4,7 @@ describe 'Index Page', type: :feature do
 
         expect(page).to have_css '#info'
         within '#info' do
-            expect(page).to have_content 'Md Shahin Patowary'
-            expect(page).to have_content 'Junior Full Stack Web Developer'
+            expect(page).to have_content 'MD SHAHIN PATOWARY'
         end
     end
 

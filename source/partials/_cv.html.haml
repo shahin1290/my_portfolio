@@ -16,7 +16,7 @@
 #education.tabcontent
     .education
         - data.educations.each do |education|
-            %p= education[:duration]
+            %em= education[:duration]
             %h3= education[:degree] 
             %h3= education[:program]
             %h3= education[:institute]
@@ -26,7 +26,7 @@
 #experience.tabcontent
     .experience
         - data.experiences.each do |experience|
-            %p= experience[:duration]
+            %em= experience[:duration]
             %h3= experience[:position] 
             %h3= experience[:place]
             %p= experience[:responsibility]
