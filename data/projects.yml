@@ -22,4 +22,16 @@
   Link-to-Github: https://github.com/shahin1290/Address-Book
   Link-to-Livesite: https://shahin1290.github.io/Address-Book/
 
+- name: Rock-Paper-Scissors  
+  description: Rock–paper–scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). A simultaneous, zero-sum game, it has only two possible outcomes - a draw, or a win for one player and a loss for the other.
+  Technologies-used: JavaScript, HTML, CSS, Cucumber,Chai
+  Link-to-Github: https://github.com/shahin1290/Rock-paper-scissors-js
+  Link-to-Livesite: https://rock-scissors-paper.netlify.com/
+
+- name: Slowfood-Moe's Tavern 
+  description: This is an Online Food Ordering System - a web-based application that allows customers to order their food for home delivery, or for pick up from the restaurant. Our imaginary client is a restaurant owner that needs a website where he can list his menu and allow visitors to place orders.
+  Technologies-used: Ruby on Rails, Cartify, Devise, PostgreSQL, Cucumber, Rspec, Pivotal Tracker, Tailwind CSS
+  Link-to-Github: https://github.com/shahin1290/slowfood-oct18-team1
+  Link-to-Livesite: https://slow-food-moes-toven.herokuapp.com/
+
 

@@ -44,4 +44,4 @@ In order to learn about the professional background of the portfolio owner
 I would like to see the academic background and work experiences
 
 ## Sketch
-![alt text](http://imagges/drawing.png)
+![drawing](http://imagges/drawing.png)
