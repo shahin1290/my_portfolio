@@ -1,3 +1,27 @@
+- name: WeMeet
+  description: A meetup app that helps people to organize groups and events around similar interests and topics. 
+  Technologies-used: Ruby on Rails Api, Devise token auth, Rspec, React, Redux, Material UI, Jest, Enzyme and Puppeteer,  Semaphore, Coveralls
+  Link-to-Github: https://github.com/shahin1290/we_meet
+  Link-to-Livesite: https://build-o5nm7drqr.now.sh/
+  
+- name: The Sunrise Press 
+  description: An end-to-end news creation, production, creation, distribution and publishing platform for localized news. 
+  Technologies-used: Ruby on Rails, Cucumber, Rspec, Devise , News APIs
+  Link-to-Github: https://github.com/shahin1290/the_sunrise_press
+  Link-to-Livesite: https://the-sunrise-press.herokuapp.com/
+
+- name: Care2Share 
+  description: It is a basic site for donating money to an origination of your choosing or add your own campaign to the list. 
+  Technologies-used: Ruby on Rails, Cucumber, Rspec, Devise, PostgreSQL, Pivotal Tracker
+  Link-to-Github: https://github.com/shahin1290/care2share
+  Link-to-Livesite: #
+
+- name: Slowfood-Moe's Tavern 
+  description: This is an Online Food Ordering System that allows customers to order their food for home delivery. 
+  Technologies-used: Ruby on Rails, Cartify, Devise, PostgreSQL, Cucumber, Rspec, Pivotal Tracker, Tailwind CSS
+  Link-to-Github: https://github.com/shahin1290/slowfood-oct18-team1
+  Link-to-Livesite: https://slow-food-moes-toven.herokuapp.com/
+
 - name: BMI CALCULATOR
   description: Body mass index (BMI) is a simple tool that is generally used to estimate the total amount of body fat. This app calculates a individuals BMI index.
   Technologies-used: JavaScript, HTML, Tailwind CSS
@@ -23,15 +47,11 @@
   Link-to-Livesite: https://shahin1290.github.io/Address-Book/
 
 - name: Rock-Paper-Scissors  
-  description: Rock–paper–scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). A simultaneous, zero-sum game, it has only two possible outcomes - a draw, or a win for one player and a loss for the other.
+  description: In this game You and the computer both choose rock, paper or scissors. The winner is decided by these rules, Rock blunts scissors, Paper covers rock and Scissors cut paper.
   Technologies-used: JavaScript, HTML, CSS, Cucumber,Chai
   Link-to-Github: https://github.com/shahin1290/Rock-paper-scissors-js
   Link-to-Livesite: https://rock-scissors-paper.netlify.com/
 
-- name: Slowfood-Moe's Tavern 
-  description: This is an Online Food Ordering System - a web-based application that allows customers to order their food for home delivery, or for pick up from the restaurant. Our imaginary client is a restaurant owner that needs a website where he can list his menu and allow visitors to place orders.
-  Technologies-used: Ruby on Rails, Cartify, Devise, PostgreSQL, Cucumber, Rspec, Pivotal Tracker, Tailwind CSS
-  Link-to-Github: https://github.com/shahin1290/slowfood-oct18-team1
-  Link-to-Livesite: https://slow-food-moes-toven.herokuapp.com/
+
 
 
