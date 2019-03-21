@@ -1,3 +1,34 @@
+- degree: Full Stack Web Development 
+  program: Full Stack Web Developer Bootcamp
+  institute: Craft Academy, Sweden
+  description: Accelerated learning by working in different projects. 
+  Each week consists of a new project and students put in 60+ per week.
+  duration: 2018.11-2019.02
+
+- degree: Web Development
+  program: Introduction to Programming
+  institute: Craft Academy, Sweden
+  description: Introduction to web development with automated testing, 
+  continuous integration and deployment, and other essential skills. 
+  duration: 2018.10-2018.11
+
+- degree: Web Development
+  program: Web Development Training    
+  institute: Udemy, Treehouse
+  description: First exposure to the world of web development 
+  by taking different courses from beginner to intermediate level.   
+  duration: 2016.06-2018.10
+
+- degree: Master’s Degree
+  program: Manufacturing Management
+  institute: Linköping University, Sweden
+  description: The program provides knowledge that helps to put one’s engineering skills in an
+    industrial management context. The program strongly focuses on advanced
+    production planning and control system, operation strategies, customer-focused
+    product and service design by using advanced statistical quality management
+    systems, six-sigma and lean production.
+  duration: 2009.08-2014.02
+
 - degree: Bachelor Degree
   program: Industrial & Production Engineering
   institute: Bangladesh University of Engineering & Technology, Bangladesh
@@ -9,13 +40,3 @@
     management. Finally the program gives adequate skills in business, accounting,
     and marketing.
   duration: 2001.02-2007.06
-
-- degree: Master’s Degree
-  program: Manufacturing Management
-  institute: Linköping University, Sweden
-  description: The program provides knowledge that helps to put one’s engineering skills in an
-    industrial management context. The program strongly focuses on advanced
-    production planning and control system, operation strategies, customer-focused
-    product and service design by using advanced statistical quality management
-    systems, six-sigma and lean production.
-  duration: 2009.08-2014.02
